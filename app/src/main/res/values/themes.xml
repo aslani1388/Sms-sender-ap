@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.SmsSenderApp" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">#1B5E20</item>
+        <item name="colorPrimaryDark">#0D3311</item>
+        <item name="colorAccent">#2E7D32</item>
+    </style>
+</resources>
